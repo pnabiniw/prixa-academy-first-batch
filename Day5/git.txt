@@ -10,3 +10,15 @@
 
 # git commands
 1. git init
+2. git status
+3. git add .
+4. git commit -m "<message>"  # Checkpoint
+5. git remote add origin <remote-ssh-link>
+6. git branch -M main
+7. git push -u origin main
+
+
+
+# One-time settings
+5. git config --global user.name <username>
+6. git config --global user.email <email>
