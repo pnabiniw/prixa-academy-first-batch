@@ -1,0 +1,12 @@
+# Git is a version control system
+# It helps in version / checkpoints management of development process
+# It helps in team collaboration
+
+# What is github then?
+=> Github is a cloud based service which can store out entire code.
+=> Github undestand the git language
+
+# There are similar cloub based service like github, for example: bitbucket, gitlab etc.
+
+# git commands
+1. git init
