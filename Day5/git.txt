@@ -22,3 +22,4 @@
 # One-time settings
 5. git config --global user.name <username>
 6. git config --global user.email <email>
+7. New commands
