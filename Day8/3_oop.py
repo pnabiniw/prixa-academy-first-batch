@@ -23,7 +23,7 @@ class Vehicle:
         self.color = color  # instance attribute
         self.company = company  # instance attribute
 
-    def get_info(self):
+    def get_info(self):  # method
         return f"color of the vehicle is {self.color} and company is {self.company}"
 
     
