@@ -1,0 +1,44 @@
+1. Activate venv
+2. pip install django
+3. django-admin startproject <project_name>
+4. change directory to the project folder
+    => cd myproject
+5. python manage.py runserver
+    => It starts the django development server
+
+6. python manage.py startapp <app_name>
+
+
+asgi => asynchronous server gateway interface
+wsgi => web server gateway interface
+
+
+
+# Django works on MVT architecture
+
+# MVC
+# Tables => Model (M)
+# HTML / Frontend => View (V)
+# FUnctions / Logics => Controller (C)
+
+
+# MVT
+Tables => Model (M)
+# Function / Logics => View (V)
+HTML/ Frontend => Template(T)
+
+
+
+# Django, Flask, FastAPI, Pyramid
+# Django is a complete framework
+    It already includes important packages for web development
+    => Middleware
+    => Authentication Permission Handling
+    => Url Handling
+    => Django ORM
+    => Admin Panel
+    => Cache
+
+# Flask
+# Flask is a python web library
+# It only includes wsgi server by default

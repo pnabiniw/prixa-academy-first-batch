@@ -1,0 +1,24 @@
+Commands
+
+1. python -m venv <environment_name>
+    => python -m venv venv
+
+2. venv\Scripts\activate
+    => This command activates the environment on windows
+
+    source venv/bin/activate
+    => This is for linux and Mac devices
+
+3. pip freeze
+    => This command lists all the packages in the environment
+
+
+4. pip install <package_name>
+    => pip install numpy
+
+5. pip freeze > requirements.txt
+    => It creates a new file of all the project packages
+
+6. pip install -r requirements.txt
+    => It recursively installs all the project packages from file
+    requirements.txt
